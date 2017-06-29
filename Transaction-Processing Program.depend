@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1492970428 source:d:\c++\transaction-processing program\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	"ClientData.h"
+
+1492968970 d:\c++\transaction-processing program\include\clientdata.h
+	<string>
+
+1492970459 source:d:\c++\transaction-processing program\src\clientdata.cpp
+	"ClientData.h"
+	<string>
+
+1493163844 source:c:\users\thein\desktop\transaction-processing-program\transaction-processing program\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	"ClientData.h"
+	"sec.h"
+	"primary.h"
+
+1492968970 c:\users\thein\desktop\transaction-processing-program\transaction-processing program\include\clientdata.h
+	<string>
+
+1492970459 source:c:\users\thein\desktop\transaction-processing-program\transaction-processing program\src\clientdata.cpp
+	"ClientData.h"
+	<string>
+
+1493162024 source:c:\users\thein\desktop\transaction-processing-program\transaction-processing program\src\primary.cpp
+	"primary.h"
+	<string>
+
+1493162019 c:\users\thein\desktop\transaction-processing-program\transaction-processing program\include\primary.h
+	<string>
+
+1493035728 source:c:\users\thein\desktop\transaction-processing-program\transaction-processing program\src\sec.cpp
+	"sec.h"
+	<string>
+
+1493035311 c:\users\thein\desktop\transaction-processing-program\transaction-processing program\include\sec.h
+	<string>
+
+1493847857 source:d:\college\file_structure\transaction-processing-program\transaction-processing program\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	"ClientData.h"
+	"sec.h"
+	"primary.h"
+
+1492968970 d:\college\file_structure\transaction-processing-program\transaction-processing program\include\clientdata.h
+	<string>
+
+1493035311 d:\college\file_structure\transaction-processing-program\transaction-processing program\include\sec.h
+	<string>
+
+1493162019 d:\college\file_structure\transaction-processing-program\transaction-processing program\include\primary.h
+	<string>
+
+1492970459 source:d:\college\file_structure\transaction-processing-program\transaction-processing program\src\clientdata.cpp
+	"ClientData.h"
+	<string>
+
+1493162024 source:d:\college\file_structure\transaction-processing-program\transaction-processing program\src\primary.cpp
+	"primary.h"
+	<string>
+
+1493035728 source:d:\college\file_structure\transaction-processing-program\transaction-processing program\src\sec.cpp
+	"sec.h"
+	<string>
+
